@@ -1,0 +1,8 @@
+setup.py
+ChainModels/src/ChainModels.egg-info/PKG-INFO
+ChainModels/src/ChainModels.egg-info/SOURCES.txt
+ChainModels/src/ChainModels.egg-info/dependency_links.txt
+ChainModels/src/ChainModels.egg-info/requires.txt
+ChainModels/src/ChainModels.egg-info/top_level.txt
+ChainModels/src/ChainModels.py
+ChainModels/src/ChainModels.egg-info/SOURCES.txt
